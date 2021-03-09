@@ -1,0 +1,36 @@
+body {
+  width: 100%;
+  background-color: #b1bab3;
+}
+
+.card img {
+  width: 85.5rem;
+  height: 10rem;
+}
+
+.card-img-overlay h1,
+p {
+  margin-top: 15px;
+  color: white;
+  text-align: center;
+}
+
+.container-fluid .navbar-toggler,
+button:hover {
+  border: 0.5px solid white;
+  color: white;
+}
+
+.navbar-custom {
+  background-image: linear-gradient(white, black);
+}
+
+.navbar-body a {
+  color: white;
+  font-weight: bold;
+}
+
+.navbar-body a:hover {
+  background-color: #e6d600;
+  border-radius: 0.5em;
+}
